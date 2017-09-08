@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>NHCBDP</groupId>
-	<artifactId>OAuth2Module</artifactId>
+	<artifactId>OAuth2demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>OAuth2Module</name>
+	<name>OAuth2demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -27,7 +27,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>
